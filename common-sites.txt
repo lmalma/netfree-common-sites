@@ -375,7 +375,7 @@
 	https://www.google.com/s2/favicons?domain=https://en.yad-sarah.net/
 
 	אאוטנט
-        http://out-net.net/
+    http://out-net.net/
 
 %% פורומים חרדיים
 
@@ -387,9 +387,6 @@
 
 	תחומים
 	http://tchumim.com/
-
-	מקצועות
-	http://xn--9dbazrsfz.com/
 
 	פורום נתיב
 	http://forum.enativ.com/
